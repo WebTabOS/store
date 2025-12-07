@@ -1,0 +1,8 @@
+{
+  "name": "Calculator",
+  "author": "WebTabOS Team",
+  "version": "1.0.0",
+  "description": "A simple calculator app",
+  "category": "Utility",
+  "download": "WebTabOS.calculator.webapp"
+}
