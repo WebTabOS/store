@@ -1,0 +1,7 @@
+{
+  "name": "WebTabOS Store",
+  "owner": "WebTabOS Team",
+  "description": "The official WebTabOS app store, providing essential apps made by the WebTabOS Team.",
+  "icon": "official.png",
+  "apps_folder": "official"
+}
