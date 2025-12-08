@@ -1,6 +1,6 @@
 {
   "name": "WebTabOS Community",
-  "owner": "WebTabOS Community",
+  "owner": "WebTabOS Team",
   "description": "The official WebTabOS app store, providing additional apps made by the Community.",
   "icon": "community.png",
   "apps_folder": "community"
